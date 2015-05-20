@@ -3688,7 +3688,24 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "My Spanish Tutor", 
+      "thumb": "my-spanish-tutor/thumb.png", 
+      "desc": "My Spanish Tutor is a collection of flashcards and games created to help beginners in Spanish, my self included, learn Spanish in a fun way. I also created My Spanish Tutor to increase my AngularJS skills.",
+      "url": "http://deryx.github.io/spanish-tutor/#/",
+      "src": "https://github.com/Deryx/spanish-tutor",
+      "submitter": "Deryx",
+      "submissionDate": "2015-05-20",
+      "tags": [
+        "Language",
+        "Spanish",
+        "AngularJS",
+        "JSON",
+        "jQuery",
+        "Animations",
+        "CSS3"  
+      ]
     }
-
   ]
 }
